@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string-array name="coffee_kinds">
+        <item>Latte</item>
+        <item>Flat White</item>
+        <item>Espresso</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="extras">
+        <item>Sugar</item>
+        <item>Soy Milk</item>
+        <item>Cookie</item>
+    </string-array>
+    <string name="coffee_menu">- Latte (8.0)\n- Flat White (7.0)\n- Espresso (5.0)\n- Black (6.0)</string>
+    <string name="extras_menu">- Sugar (0.5)\n- Soy Milk (1.5)\n- Cookie (2.0)</string>
+</resources>
